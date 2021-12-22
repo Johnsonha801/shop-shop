@@ -19,11 +19,11 @@ Shop-Shop is an e-commerce application that offers a variety of goods that users
 
 Users can use Shop-Shop, an e-commerce web application, to purchase a variety of goods. 
 
-Deployed Application: [MERN Book Search]()
+Deployed Application: [MERN Book Search](https://guarded-shore-65880.herokuapp.com/)
 
 ## Questions
 
 GitHub profile [Johnsonha801](https://github.com/Johnsonha801)
 
 ## Application
-![Working Project Screenshot]()
+![Working Project Screenshot](/app.PNG)
